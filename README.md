@@ -1,4 +1,4 @@
-# E2E SDLC with GitHub Copilot — Workshop
+# E2E SDLC with GitHub Copilot — Microsoft Workshop
 
 > **Audience**: Developers, Tech Leads, Architects  
 > **Total Duration**: ~40 min mandatory + ~30 min optional + separate CLI/Cloud Agent tracks  
