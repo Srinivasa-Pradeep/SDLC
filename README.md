@@ -4,7 +4,6 @@
 > **Total Duration**: ~40 min mandatory + ~30 min optional + separate CLI/Cloud Agent tracks  
 > **Pre-requisites**: VS Code with GitHub Copilot Chat extension, Node/Python/Java/.NET runtime, Git CLI, GitHub Copilot access
 
----
 
 ## What You Will Build
 
